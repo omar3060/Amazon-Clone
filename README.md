@@ -8,3 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - Demo video for the entire application including cloud function and firebase authentication and database
+https://github.com/user-attachments/assets/d0a243cf-7ba7-4604-b44a-ac168352a72b
